@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi:9
+FROM registry.access.redhat.com/ubi9:9.4
 
 # Steps done in one RUN layer:
 # - Install packages
